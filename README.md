@@ -1,12 +1,13 @@
-# Hej du som hittat hit! 👋
-## Lite information om mig kommer här:
-- 👋 Hej, jag är @mainforce
-- 🖥️ Jag är student (Frontend Dev)
-- 🌭🍺 Jag gillar livets goda
-- 🎈🌻 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hej! 👋 
+### Jag en bra dag:
+![Alt-text](https://media1.popsugar-assets.com/files/thumbor/GbafiV7BfmtfcAS5JsT1pJOWXYQ=/fit-in/500x278/top/filters:format_auto():upscale()/2015/02/24/111/n/1922283/923309247fda906e_anigif_enhanced-buzz-27945-1386641291-9.gif)
+
+### Jag de flesta dagar:
+![Alt-text](https://i.pinimg.com/originals/59/99/81/5999812790c784e66ad7a2508db29247.gif)
+
+
+
+
 
 <!---
 mainforce/mainforce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
